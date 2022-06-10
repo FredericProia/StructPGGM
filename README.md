@@ -1,4 +1,4 @@
 # StructPGGM
-Adjust a partial Gaussian graphical model (PGGM) with structural penalty following the frequentist approach of Okome Obiang et al. (2021). The Gibbs samplers for sparse, group-sparse and sparse-group-sparse direct links are provided in "GibbsPGGM.R". An example on simulated data is given in "Example.R". The real dataset Hopx (cf. Petretto et al. (2010)) is also given with a demonstration in "ExampleHopx.R".
+Adjust a partial Gaussian graphical model (PGGM) with structural penalty following the frequentist approach of <a href="[https://arxiv.org/abs/2105.10888](https://www.esaim-ps.org/articles/ps/abs/2021/01/ps200072/ps200072.html)" target="_blank">Okome Obiang et al. (2021)</a>. The estimation algorithm is provided and a quick example on simulated data is given in "Example.R".
 
 (Last update : 10/06/22)
